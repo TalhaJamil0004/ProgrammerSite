@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ProgrammerSite/static/css/main.cb4b3401.css",
+    "main.js": "/ProgrammerSite/static/js/main.6a1e3aa4.js",
+    "static/js/453.1b6cbde4.chunk.js": "/ProgrammerSite/static/js/453.1b6cbde4.chunk.js",
+    "static/media/carbackground.png": "/ProgrammerSite/static/media/carbackground.ceb9f3688c4612f7ddd5.png",
+    "static/media/Remove-bg.ai_1722497782252.png": "/ProgrammerSite/static/media/Remove-bg.ai_1722497782252.0a986f77eacb29515ba7.png",
+    "static/media/background.svg": "/ProgrammerSite/static/media/background.f786e8be5df4589cdd97222abd90824a.svg",
+    "static/media/Remove-bg.ai_1722497837235.png": "/ProgrammerSite/static/media/Remove-bg.ai_1722497837235.e62ebfbf5df4c1e3b746.png",
+    "static/media/software-developer-6521720_1280.jpg": "/ProgrammerSite/static/media/software-developer-6521720_1280.a92c41b851977e4abd99.jpg",
+    "static/media/weather-forecast-vector-11181087.jpg": "/ProgrammerSite/static/media/weather-forecast-vector-11181087.ad0bb541f85a12e9a6b6.jpg",
+    "static/media/Remove-bg.ai_1722498030858.png": "/ProgrammerSite/static/media/Remove-bg.ai_1722498030858.5cc3e0f020c87aa1e5be.png",
+    "static/media/10608.png": "/ProgrammerSite/static/media/10608.1bef70d87bb07a420cb1.png",
+    "static/media/computer-programmer-hd-8k-wallpaper-stock-photographic-image_915071-69872.avif": "/ProgrammerSite/static/media/computer-programmer-hd-8k-wallpaper-stock-photographic-image_915071-69872.6b03647b4753766138e3.avif",
+    "static/media/360_F_335348056_yY8QyHP966KePjyutnns1Puwt2bnngZc.jpg": "/ProgrammerSite/static/media/360_F_335348056_yY8QyHP966KePjyutnns1Puwt2bnngZc.f9c9c580c93ab6a30ce7.jpg",
+    "static/media/hand-of-man-with-money-buying-or-renting-a-new-car-free-vector.jpg": "/ProgrammerSite/static/media/hand-of-man-with-money-buying-or-renting-a-new-car-free-vector.738706d607544f506851.jpg",
+    "index.html": "/ProgrammerSite/index.html",
+    "main.cb4b3401.css.map": "/ProgrammerSite/static/css/main.cb4b3401.css.map",
+    "main.6a1e3aa4.js.map": "/ProgrammerSite/static/js/main.6a1e3aa4.js.map",
+    "453.1b6cbde4.chunk.js.map": "/ProgrammerSite/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb4b3401.css",
+    "static/js/main.6a1e3aa4.js"
+  ]
+}
