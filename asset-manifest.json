@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProgrammerSite/static/css/main.cb4b3401.css",
-    "main.js": "/ProgrammerSite/static/js/main.6a1e3aa4.js",
+    "main.js": "/ProgrammerSite/static/js/main.61816295.js",
     "static/js/453.1b6cbde4.chunk.js": "/ProgrammerSite/static/js/453.1b6cbde4.chunk.js",
     "static/media/carbackground.png": "/ProgrammerSite/static/media/carbackground.ceb9f3688c4612f7ddd5.png",
     "static/media/Remove-bg.ai_1722497782252.png": "/ProgrammerSite/static/media/Remove-bg.ai_1722497782252.0a986f77eacb29515ba7.png",
@@ -16,11 +16,11 @@
     "static/media/hand-of-man-with-money-buying-or-renting-a-new-car-free-vector.jpg": "/ProgrammerSite/static/media/hand-of-man-with-money-buying-or-renting-a-new-car-free-vector.738706d607544f506851.jpg",
     "index.html": "/ProgrammerSite/index.html",
     "main.cb4b3401.css.map": "/ProgrammerSite/static/css/main.cb4b3401.css.map",
-    "main.6a1e3aa4.js.map": "/ProgrammerSite/static/js/main.6a1e3aa4.js.map",
+    "main.61816295.js.map": "/ProgrammerSite/static/js/main.61816295.js.map",
     "453.1b6cbde4.chunk.js.map": "/ProgrammerSite/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb4b3401.css",
-    "static/js/main.6a1e3aa4.js"
+    "static/js/main.61816295.js"
   ]
 }
